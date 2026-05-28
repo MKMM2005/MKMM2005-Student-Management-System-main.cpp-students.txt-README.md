@@ -1,3 +1,32 @@
+/*Student Management System using C++
+
+The objective of this project is to develop a console-based Student Management System using C++ programming language that can efficiently store, manage, and organize student information.
+
+The system is designed to help educational institutions perform basic student record management operations such as:
+
+~Adding new students
+~Viewing student information
+~Searching student records
+~Updating existing data
+~Deleting student records
+~Sorting students by CGPA
+~Generating academic statistics
+~Saving data permanently using file handling
+
+This project also aims to apply important Object-Oriented Programming (OOP) concepts including:
+
+~Classes and Objects
+~Encapsulation
+~Constructors
+~Setters and Getters
+~File Handling
+~STL Vector
+~Functions and Modular Programming
+
+The system provides a simple and user-friendly menu-driven interface where administrators can manage student data securely through a login system.
+*/
+
+
 #include<iostream>
 #include<fstream>
 #include<vector>
